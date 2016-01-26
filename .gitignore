@@ -1,29 +1,31 @@
 # =============== #
 # Unity generated #
 # =============== #
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ibrary/
-Assets/AssetStoreTools*
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Mm]ono/
+AssetStoreTools*
 sysinfo.txt
 *.stackdump
+*.unitypackage
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
-/[Ee]xported[Oo]bj/
+[Ee]xported[Oo]bj/
 .vs/
-/*.userprefs
-/*.csproj
-/*.pidb
-/*.suo
-/*.sln*
-/*.user
-/*.unityproj
-/*.booproj
-/*.exe
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln*
+*.user
+*.unityproj
+*.booproj
+*.exe
  
 # ============ #
 # OS generated #
